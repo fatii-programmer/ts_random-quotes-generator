@@ -11,7 +11,8 @@ Lightning Fast: Quick load times and smooth performance on any device.
 Fetch: Retrieves a random quote from a curated collection or API.
 Display: Presents the quote in a beautiful format.
 Refresh: Get a new quote by refreshing the page or clicking a button.
-🔧 Technologies
+
+🔧 Technologies:
 TypeScript
 HTML & CSS
 API Integration
