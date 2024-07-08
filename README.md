@@ -1,5 +1,5 @@
 🌟 Random Quotes 🌟
-Welcome to Random Quotes, your daily dose of inspiration! This application delivers a fresh and motivating quote each time you use it.
+Welcome to Random Quotes your daily dose of inspiration! This application delivers a fresh and motivating quote each time you use it.
 
 ✨ Features:
 Endless Inspiration: New quotes with every refresh.
